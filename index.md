@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## プロフィール
 
-You can use the [editor on GitHub](https://github.com/afoil/about-me/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# 職務経歴
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## フォントベンダー
 
-### Markdown
+- データエンジニア (2022/5 - )
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 業務内容
 
-```markdown
-Syntax highlighted code block
+- データ基盤の構築
 
-# Header 1
-## Header 2
-### Header 3
+## 中小企業支援SaaSサービス企業
 
-- Bulleted
-- List
+- 機械学習エンジニア(2020/4 - 2021/3)
+- データエンジニア (2021/4 - 2022/3)
 
-1. Numbered
-2. List
+### 業務内容
 
-**Bold** and _Italic_ and `Code` text
+- 与信APIのリファクタリング、保守
+- S3, Glueを用いたデータ基盤の構築
 
-[Link](url) and ![Image](src)
-```
+# スキル
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## プログラミング言語
 
-### Jekyll Themes
+- Python
+  - pytorch, pandas, numpy
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/afoil/about-me/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## AWS
 
-### Support or Contact
+- Glue, S3, Lambda, Step Functions, QuickSight
+- CloudFormation, CDK (TypeScript)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# 資格
+
+## AWS
+
+- AWS Cloud Practitioner
+- AWS Solutions Architect Associate
+- AWS Developer Associate
+
+## IPA
+
+- 基本情報技術者
